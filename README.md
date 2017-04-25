@@ -1,6 +1,6 @@
 # npmtest-datatables.net
 
-#### test coverage for  [datatables.net (v1.10.15)](https://datatables.net)  [![npm package](https://img.shields.io/npm/v/npmtest-datatables.net.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-datatables.net) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-datatables.net.svg)](https://travis-ci.org/npmtest/node-npmtest-datatables.net)
+#### basic test coverage for  [datatables.net (v1.10.15)](https://datatables.net)  [![npm package](https://img.shields.io/npm/v/npmtest-datatables.net.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-datatables.net) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-datatables.net.svg)](https://travis-ci.org/npmtest/node-npmtest-datatables.net)
 
 #### DataTables for jQuery
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-datatables.net/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-datatables.net/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-datatables.net/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-datatables.net/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-datatables.net/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-datatables.net/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-datatables.net/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-datatables.net/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-datatables.net/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-datatables.net/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-datatables.net/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-datatables.net/build/coverage.html/index.html)
 
@@ -77,7 +77,8 @@
         "type": "git",
         "url": "git+https://github.com/DataTables/Dist-DataTables.git"
     },
-    "version": "1.10.15"
+    "version": "1.10.15",
+    "bin": {}
 }
 ```
 
